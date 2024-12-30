@@ -1,3 +1,5 @@
+2024 Dec 30
+
 The use of Meta platforms remains infrequent, and this appears to be a reasonable choice. Recently, during a second login attempt on the same day, the system prompted for multiple layers of authentication. After entering the password, email verification was required, followed by SMS verification. Upon attempting to update personal details, the system demanded the password again.
 
 This design reflects a shift toward increasingly complex security protocols, which can be burdensome for users. Despite possessing expertise in computer science, there is significant opposition to these cumbersome processes and the enforcement of mandatory multi-factor authentication (MFA) policies. Such measures should remain optional and implemented only when explicitly requested by users. Platforms like Steam and Riot Games exemplify a more user-centric approach in this regard.
