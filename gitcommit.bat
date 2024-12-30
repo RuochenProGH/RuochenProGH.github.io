@@ -1,4 +1,4 @@
 git add .
-git commit -m "temp update"
+git commit -m "bash update"
 git push
 pause
