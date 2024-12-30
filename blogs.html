@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <style>
+        .blog {
+            margin-bottom: 20px;
+        }
+        .blog-content {
+            display: none;
+            margin-top: 10px;
+        }
+        .toggle-button {
+            cursor: pointer;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Blogs</h1>
+    <div id="blogs"></div>
+
+    <script>
+        const blogs = [
+            { title: "LoginMethodology", file: ["blogs", "LoginMethodology.txt"].join("/") },
+            { title: "LoginMethodology", file: ["blogs", "LoginMethodology.txt"].join("/") },
+            { title: "LoginMethodology", file: ["blogs", "LoginMethodology.txt"].join("/") }
+        ];
+
+        const blogsContainer = document.getElementById('blogs');
+
+        blogs.forEach(blog => {
+            const blogElement = document.createElement('div');
+            blogElement.className = 'blog';
+
+            const titleElement = document.createElement('div');
+            titleElement.className = 'toggle-button';
+            titleElement.textContent = blog.title + ' +';
+            titleElement.addEventListener('click', () => {
+                const contentElement = blogElement.querySelector('.blog-content');
+                if (contentElement.style.display === 'none') {
+                    contentElement.style.display = 'block';
+                    titleElement.textContent = blog.title + ' -';
+                } else {
+                    contentElement.style.display = 'none';
+                    titleElement.textContent = blog.title + ' +';
+                }
+            });
+
+            const contentElement = document.createElement('div');
+            contentElement.className = 'blog-content';
+
+            fetch(blog.file)
+                .then(response => response.text())
+                .then(data => {
+                    contentElement.textContent = data;
+                });
+
+            blogElement.appendChild(titleElement);
+            blogElement.appendChild(contentElement);
+            blogsContainer.appendChild(blogElement);
+        });
+    </script>
+</body>
+</html>
