@@ -1,0 +1,201 @@
+0. Disclaimer
+
+It is a personal blog instead of rigorous scientific research. Although I am a computer scientist, this article should only be a casual reading.  
+
+---
+
+This article is presented as a personal blog rather than a piece of rigorous scientific research. While I am a computer scientist by profession, the content here is intended for casual reading rather than in-depth academic analysis.
+
+---
+
+1.  Intro
+
+I have a few future vision of the virtual environment. This term ‘virtual environment’ is rather a concept than a concrete technology. It is the collaborative result of a set of technology encompassing computer science, human-centred interface, computer graphics, ergonomics, *etc.* However, the usually mentioned XR, extended reality is a clearly defined term with an understandable domain that includes virtual reality, augmented reality, and mixed reality.  
+
+---
+
+I envision several potential developments in the concept of the virtual environment. The term "virtual environment" is more accurately described as a conceptual framework rather than a specific technology. It represents the collaborative integration of various fields, including computer science, human-centred interface design, computer graphics, ergonomics, and others. In contrast, the commonly referenced term **Extended Reality (XR)** is well-defined and encompasses a more delineated domain, explicitly including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR).
+
+---
+
+2. MR
+
+The very first kind is about MR. MR is the median of VR and AR combining their advantages. It should be easy to begin with VR and AR, the real world applications of VR and AR can be easily found in our daily lives due to the advertisements from the tech-monopolies. 
+
+In VR, you interact with the surrounding with your own hands, you can rotate, move, grab, and so on just like in the real world you do. The drawbacks of VR is that you are immersed in a purely virtual world that is created by someone else in the past and anything in the real world in the same timeline as your physical self is not presented to you. 
+
+The AR seems to be on the contrary of VR. The merit of it is its real-time quality and the drawbacks is the immersiveness. Currently, all the AR application relies on smartphones. Although those applications captures the real world with cameras and display an overlay on them intending to deceive the user they are see a unicorn comes into the screen from somewhere though it actually does not exist, the fact of interacting with you smartphone never changes. 
+
+There comes the MR. The MR is where you are immersed with virtual objects at your surroundings that you can interact with while you can see or perceive the real world around you at the same time.  The google glasses can be considered as MR to certain degree, but it lacks the core ability to create objects that user can interact with. The mixed reality is somehow unnoticeable because the research is just beginning on its course and slightly far away from the consumer level with respect to the price, the usability of applications and hardware design.  The newly published Meta Quest 3 and Apple Vision Pro are seemly mounted with excellent cameras providing much better see-through features than previous generations. 
+
+The next question is that why MR is important? There are a few things that comes into my mind. The first one is that it can free our hands while confined us with a HMD. People may doubt that things are not changed if this happens, but actually human are dependent on our hands to carry our works while head is for information acquirement and process. The potential shift from using a single hand plus head to acquire information back to using our heads could greatly elevate our productivity. And potentially with the connected brains by Elon Mask’ research group and the generally advancement in AI technology, our mankind could have a chance to embrace glorified evolution within the near future. 
+
+If you think the above assumption is going too far, it is reasonable, but there are many other things MR could help us. The most popular field is training and education. After the pandemic in 2019, the world sees the power of remote collaboration.  Once we were forced to try the remote mode of study and work, it turns out to be far better than we previously expected. The MR technology could even take a step further because it can more vividly and accurately presents  a real world object than VR and AR. It means that even outside the classroom study, professional training like engineering and surgery can be taken into account. 
+
+---
+
+### Mixed Reality (MR): Bridging the Gap Between VR and AR
+
+Mixed Reality (MR) represents a synthesis of Virtual Reality (VR) and Augmented Reality (AR), leveraging the advantages of both to create a unique and interactive experience. While VR and AR are increasingly prevalent due to the widespread advertising efforts of major technology corporations, MR remains a nascent field, with significant potential for future development.
+
+### **Virtual Reality (VR): Immersion in a Constructed World**
+
+VR provides users with an immersive experience where they can interact with their surroundings using natural hand gestures, such as rotating, moving, and grabbing objects, mimicking real-world actions. However, its primary drawback lies in its detachment from the present physical world. The user is fully immersed in a digitally created environment, which is typically designed by someone in the past, leaving the concurrent real-world surroundings inaccessible.
+
+### **Augmented Reality (AR): Enhancing the Real World**
+
+Conversely, AR overlays digital elements onto the real-world environment in real time, primarily through smartphone applications. This real-time enhancement is AR’s key strength, but it sacrifices the sense of immersion offered by VR. Despite its advancements, current AR technology is largely confined to smartphones, where users interact with digital overlays through their device screens. This interaction, while engaging, remains fundamentally tethered to the limitations of the smartphone interface.
+
+### **Mixed Reality (MR): A Convergence of Real and Virtual Worlds**
+
+MR integrates the physical and virtual worlds, enabling users to interact with virtual objects in their immediate surroundings while remaining aware of and engaged with the real world. Devices like Google Glass could be considered rudimentary MR tools, but they lack the core functionality of creating fully interactive virtual objects. Emerging MR devices, such as the Meta Quest 3 and Apple Vision Pro, are equipped with advanced cameras and see-through features, offering significant improvements over earlier generations. However, MR technology is still in its early stages, with challenges related to cost, usability, and hardware design preventing widespread consumer adoption.
+
+### **The Importance of Mixed Reality**
+
+The potential of MR extends far beyond its current applications. One key advantage is its ability to free users’ hands while engaging them through a head-mounted display (HMD). Critics may argue that such systems do not fundamentally change the user experience, but this perspective overlooks the inherent human reliance on hands for physical tasks and the head for information acquisition and processing. By shifting information interaction from hands to the head, MR could significantly enhance productivity. Furthermore, with advancements in AI and neural interfaces, such as the brain-connected technologies being developed by Elon Musk’s research group, MR has the potential to catalyse a profound evolution in human capabilities.
+
+### **Applications in Training and Education**
+
+Even without venturing into speculative advancements, MR holds immense promise in practical fields, particularly training and education. The global shift toward remote collaboration during the COVID-19 pandemic demonstrated the feasibility and effectiveness of virtual learning and working environments. MR could take this concept further by providing vivid and accurate representations of real-world objects, surpassing the capabilities of both VR and AR. Applications could extend from classroom learning to professional training in fields such as engineering and surgery, offering realistic and interactive simulations that enhance skill acquisition and retention.
+
+### **Conclusion**
+
+Mixed Reality stands at the frontier of immersive technology, bridging the strengths of VR and AR to create transformative experiences. While its current applications are limited, the ongoing advancements in hardware, software, and AI integration suggest that MR could play a pivotal role in shaping the future of human interaction, productivity, and learning. As research progresses, MR is poised to redefine the boundaries of what is possible in both virtual and physical realms.
+
+---
+
+3. Feedback hardware
+
+The second is about feedback hardware. In 1965, Sutherland published article about the ultimate display. I always cite this article when I am writing about VR topics because not only I think this idea is so fascinating and it has been my dream since my childhood but also everybody in this industry of VR should be concerned with. It depicted an ultimate version of HMD that we can ever imagine: people are fully immersed in the HMD regards to not only visual sense but literally all senses including smell, touch, taste, and so on, and are not able to distinguish whether they are equipped with the HMD or not. Currently, we are still at the very beginning of a relatively public-acceptable VR technology, but rarely those devices provide haptics feedback. Research is undertaken, there are many categories and the most famous ones among them are hand tracking, head tracking, full body tracking, haptics, treadmill and eye tracking. 
+
+Due to my limited knowledge on building objects in real world, my vision is limited on how to improve those technologies. However, from my experiences, I believe that the lack of interdisciplinary teaching could be one of the miss in current high education system. I devoted myself to the computer science related core subjects. I am not particularly saying to create a better VR device is out of scope, but my time is limited during the university and have to focus more on those subjects that is more closely related to the core of computer science, or to be more specific the software and programming.
+
+Although limited and inconsiderate, I would still like to share my own views on the haptics in this article: I personally find the eye tracking is overestimated and the haptics is underestimated.
+
+Let us discuss about the eye tracking first. One thing that always confuse me is that why eye tracking matters or even is eye tracking a good thing? The theory about all primates have the instinct that they fear to look directly into one’s eyes and to be stared. Eye tracking seems to provide an interaction that people barely want. The other usage of eye tracking is that it serves as an input method. Again, I found this weird because as you rotate your eyes, you are definitely looking away from the screen; if you cannot see the screen how you can operate on it. It goes into a deadlock.
+
+Secondly, we can discuss about the haptics. The haptics of VR is still under development and under research, and it is not yet publicly open to consumers. Two direct but inter-related reasons for not being popular are the price is too high and the use cases are too less. High price and less usage mean most consumers won’t be interested in purchasing the product and the low interest in the product currently prohibited the investment in those technologies which further hinders the advancement of technology and cannot lower the production cost. Another reason for haptics being not popular which also might serve as the cause for the previous two is the advancement in hand tracking. The traditional hand tracking relies on gyroscope, now advanced tracking technology might be dependent on AI-aided computer vision and might be more accuracy beyond our imagination. 
+
+So with such advancement, why I am still predicting that the haptics is underestimated? The reason is that haptics, especially hand haptics can not only serves as an input device, but it also serves as a feedback device that gives the user a feeling of touch. While the eye tracking provides no feedback and probably could not even in the future because our human beings are not expected to receive any feedback other than visual. From haptic gloves to full-body haptic suits, with the advancement in related fields, the provisions could be held that their market growth will increase and the production cost would decrease, thus embracing a heathy development cycle of haptics. I would like to keep my word for the brain-machine interfaces here, because investigation into this topic is beyond my ability and the topic is intertangled with too many other subjects.
+
+---
+
+### Feedback Hardware: Current State and Future Prospects
+
+### **Introduction**
+
+The development of feedback hardware is a critical aspect of advancing Virtual Reality (VR) technology. In 1965, Ivan Sutherland introduced the concept of the "ultimate display," a vision that remains profoundly influential in VR research. This concept described an ideal head-mounted display (HMD) capable of fully immersing users by engaging all senses, including vision, touch, smell, and taste, to the point where users could no longer distinguish virtual experiences from reality. While current VR technology is still in its infancy compared to this vision, feedback hardware—particularly haptics, eye tracking, and other sensory interfaces—has made significant strides, albeit with notable limitations.
+
+### **Current State of Feedback Hardware**
+
+Although many categories of feedback hardware exist, including hand tracking, body tracking, haptics, treadmills, and eye tracking, only a few are commercially available to the public. Among these, haptics remains underdeveloped and inaccessible to mainstream consumers. The high cost of haptic devices and their limited use cases have contributed to low consumer interest, which in turn discourages investment and slows technological advancement. Conversely, technologies like hand and eye tracking have received considerable attention, with promising advancements such as AI-powered computer vision enhancing their precision and functionality.
+
+### **Challenges in Technological Development**
+
+My perspective on advancing feedback hardware is constrained by my background in computer science, which emphasises software development and programming over hardware engineering. Interdisciplinary education, which integrates knowledge from multiple domains, is often lacking in higher education systems, limiting the capacity of individuals like myself to contribute holistically to VR hardware innovation. This underscores the need for more inclusive and multidisciplinary approaches to teaching and research in VR.
+
+### **Critical Analysis of Eye Tracking**
+
+Eye tracking technology has been widely promoted as a significant advancement in VR, yet its practical value warrants closer scrutiny. One of the primary applications of eye tracking is as an input method. However, this raises concerns: when users rotate their eyes to interact with virtual elements, their gaze inherently moves away from the screen, creating a paradoxical deadlock where the user cannot interact effectively without losing visual focus.
+
+Moreover, eye tracking introduces potential social and psychological challenges. For example, primates, including humans, often find direct eye contact uncomfortable, especially in prolonged interactions. This instinctive aversion suggests that integrating eye tracking into VR experiences might not align with natural human behaviours or preferences. Furthermore, eye tracking offers no feedback to users, limiting its ability to create truly immersive or interactive experiences.
+
+### **The Potential of Haptics**
+
+In contrast to eye tracking, haptics technology holds considerable promise for enhancing VR experiences. Haptics provides both input and feedback capabilities, enabling users to interact with and "feel" virtual objects. From haptic gloves to full-body suits, advancements in this field have the potential to transform how users experience VR. Despite its current limitations—high costs, limited applications, and underdeveloped technology—haptics could benefit from advancements in related areas such as hand tracking. AI-aided computer vision, for instance, has improved the accuracy of hand tracking, which could indirectly support the development and integration of haptic technologies.
+
+Haptics offers a significant advantage over other sensory technologies: its ability to simulate touch and force feedback. Unlike eye tracking, which is inherently limited to visual input, haptics engages the user’s sense of touch, making interactions with virtual environments more realistic. As the technology matures, increased consumer interest and investment could drive down production costs and broaden its applications, fostering a positive feedback loop for further development.
+
+### **Future Directions**
+
+Looking ahead, the integration of brain-machine interfaces (BMIs) may represent the next frontier for feedback hardware. However, this topic remains highly complex and interdisciplinary, encompassing fields such as neuroscience, artificial intelligence, and ethics. While BMIs could revolutionise VR by enabling direct communication between the brain and virtual environments, this area is beyond my expertise and warrants further investigation by specialists.
+
+### **Conclusion**
+
+Feedback hardware is an essential component of VR development, with haptics standing out as an undervalued yet transformative technology. While eye tracking has received significant attention, its practical and psychological limitations raise questions about its utility. Haptics, by contrast, has the potential to enhance both input and feedback, making VR experiences more immersive and interactive. As interdisciplinary research and investment in feedback hardware increase, technologies like haptics are poised to overcome current barriers and play a pivotal role in the future of VR. Ivan Sutherland’s vision of the "ultimate display" may still be far off, but the ongoing advancements in feedback hardware bring us closer to realising this dream.
+
+---
+
+4. VR and AI
+
+Another direction for future development of VR is combining VR with other existing mature technology, here we would like to discuss about the combination with AI first. After the tech boom of AI in 2022, the daily lives of the world is changing drastically, and we sometimes refer to it as the *information revolution* which is of the same level as *telecommunication* and *internet*. The most important bridge AI build after the internet is that AI brings answers to any questions at a roughly professional level at an instance speed. ChatGPT, an application will be well documented in future histories and textbooks, exemplify the usage of a search engine while incorporating paragraphs generation, grammar correction, article summarisation, and so on. Those functions are within in the word *information* and manipulating with it leading to why it is called *information revolution* instead of industrial revolution. 
+
+Having understand the importance of AI, we would like to discuss the connection between AI and VR. Commonly, the very intuitive design is we implement an AI alike to ChatGPT in to the VR directly, and embodied the AI with a 3D model so that people can have a quite realistic and intelligent humanoid to talk to. People has been doing this already, but I would like to discuss about the motivations beyond merely have some virtual model you can discuss with. 
+
+The first usage is to support computer vision. With AI embedded, the accuracy of motion tracking is boosted. Although the hand tracking is a quite mature technology, the eye tracking and body tracking is still behind comparably. The second usage is to support VR art creation. AI is taking its advantage to fast generate artwork and code while being blamed by traditional artists and programmers for taking their jobs. However, the combination of the artist and the programmer whom we usually addressed as digital artists are actively exploring the potentials to exploit the AI to create their own art with the unprecedent speed of image and model generation. Another field, though I am strongly against, is the AI moderation in VR. With the growth of consumer VR bear in mind, people argued that harassment in social VR communities are becoming prevalent and moderation is in great need. The harassment in VR is usually not based on text but based on voice and behaviour, and current moderation methodology are commonly build on traditional internet setting, namely text. Although I do doubt that why the blacklist feature could not help them with the issue, the problem, if it actually exists and from the technology aspect, is compounded and could be potentially solved by applying AI.  
+
+---
+
+### The Intersection of Virtual Reality (VR) and Artificial Intelligence (AI): Future Directions
+
+### **Introduction**
+
+One promising avenue for the future development of Virtual Reality (VR) lies in its integration with existing mature technologies, particularly Artificial Intelligence (AI). The technological surge of AI, particularly since 2022, has drastically reshaped daily life. This transformation is often described as the *Information Revolution*, comparable in significance to the advent of telecommunications and the internet. Unlike the *Industrial Revolution*, which primarily altered physical production, the *Information Revolution* revolves around manipulating and disseminating information.
+
+AI has revolutionised the way we access information, providing instant, near-professional-level answers to complex queries. Tools like ChatGPT, a defining example of this shift, demonstrate AI's ability to surpass traditional search engines by offering advanced features such as paragraph generation, grammar refinement, article summarisation, and other sophisticated language-processing functionalities. These innovations highlight AI's pivotal role in the ongoing transformation of knowledge acquisition and information management.
+
+### **The Role of AI in Enhancing VR**
+
+Understanding the significance of AI, it is crucial to explore its potential to transform VR. A straightforward application involves embedding an AI model akin to ChatGPT within a VR environment and pairing it with a 3D humanoid model. This integration would enable users to interact with an intelligent and realistic virtual entity. While this concept has already seen implementation, the motivations and possibilities extend far beyond merely conversing with a virtual assistant.
+
+### **1. Enhancing Motion Tracking with AI**
+
+One major application of AI in VR is in improving motion tracking accuracy. While technologies like hand tracking are relatively mature, eye tracking and full-body tracking remain underdeveloped. AI-powered computer vision algorithms can significantly enhance the precision and responsiveness of these systems, enabling more realistic and seamless user interactions within VR environments.
+
+### **2. Supporting VR Art Creation**
+
+AI is also revolutionising creative workflows, and its integration with VR presents unique opportunities in digital art. AI's ability to rapidly generate artwork and models has drawn criticism from traditional artists and programmers, who argue it threatens their roles. However, many digital artists—those working at the intersection of programming and creative design—are actively exploring how AI can amplify their creativity. The unprecedented speed and versatility of AI in generating images, 3D models, and other assets make it an invaluable tool for VR art creation, pushing the boundaries of what is possible in virtual worlds.
+
+### **3. AI for Moderation in Social VR**
+
+Another controversial but significant application of AI in VR is moderation within social VR environments. As consumer VR grows, concerns about harassment in virtual spaces have become more prominent. Unlike traditional internet-based communities, where harassment is often text-based, VR harassment frequently involves voice and behaviour. Current moderation strategies, rooted in internet-era tools like text-based filtering and blacklists, are often inadequate in VR settings.
+
+AI offers a potential solution by analysing and moderating user behaviour and voice interactions in real-time. While I question why features like blacklists are insufficient to address such issues, the problem—if it indeed persists—could be mitigated through the application of advanced AI moderation systems. These systems could recognise and respond to harmful behaviour, creating safer and more inclusive virtual spaces.
+
+### **Motivations Beyond the Obvious**
+
+While many discussions around AI in VR focus on creating conversational virtual entities, the deeper potential lies in how AI can fundamentally reshape VR as a medium. By enhancing technical accuracy, enabling rapid content creation, and addressing community safety, AI is poised to unlock new dimensions of VR experiences that were previously unattainable.
+
+### **Conclusion**
+
+The integration of AI into VR represents a significant step forward in realising the full potential of virtual environments. From improving motion tracking to enabling unprecedented creativity in digital art, AI enhances VR's functionality and accessibility. Moreover, AI's potential in addressing behavioural challenges within social VR underscores its broader societal relevance. As these technologies continue to converge, they will not only redefine the boundaries of what is possible in VR but also further cement AI's role as a cornerstone of the ongoing *Information Revolution*.
+
+---
+
+5. Blockchain and VR
+
+The final provision I would like to share is about the combination between the blockchain and VR. The blockchain is famous for being used as the foundations for the cryptocurrency and is known as the public ledger that is available for reviews by everyone on the internet. The most famous cryptocurrency bitcoin is sometimes mixing up with the term blockchain while they are actually not the same thing. Bitcoin is just a product built on blockchain technology and its credibility relies on the both the decentralised network and the algorithm design of blockchain. Currently, the blockchain grant us ownership to a unique copy of data on the internet. By ownership of the data, it means that nobody else on the internet is capable of falsefully claimed that they have the right to transfer the ownership of the particular data while making everybody else believe the false claim is valid. This special property is exactly what the Metaverse urgently requires.
+
+In 2018, *Ready Player One* depicts a world where everybody is engaged in a worldwide Metaverse, and every item in the Metaverse is associated with some value that can be exchanged for with money in the real world. It may sounds like some MMORPG game where players do the real-money-trading, but the logical behind is completely different. In any modern MMORPG game, the game is in complete control by a server ran by a game company. All the assets that seemingly belongs to a player is actually data stored on the server that can be eradicated within a second and can never be restored. This almost never happens because there is regulation for the game company, but if some company or individuals are malicious and would like to carry out such attacks, we can merely defence in advance. The blockchain provides a different solution here. The ledger is stored in a decentral manner on everyone computer. Even if a single user is malicious enough to manipulate the data stored on his/her own, the manipulation will be aborted by all other users because they can confirm with each other to find out who is actually tampering with the data. This theory extends into personal digital assets in Metaverse. I think the technological preparation is fully completed for the advancement in the digital assets in Metaverse and it is worth to be researched on. 
+
+---
+
+### Blockchain and Virtual Reality (VR): A Synergistic Future
+
+### **Introduction**
+
+The intersection of blockchain technology and Virtual Reality (VR) represents a transformative avenue for advancing the Metaverse and its associated ecosystems. Blockchain is best known as the foundational technology for cryptocurrencies such as Bitcoin. Often misunderstood as synonymous with Bitcoin, blockchain is in fact a broader technology that operates as a decentralized public ledger, enabling secure, transparent, and immutable record-keeping accessible to all users on the internet. This decentralized nature, combined with its ability to verify data ownership, positions blockchain as a critical enabler for the future of VR and the Metaverse.
+
+### **Blockchain’s Key Contribution: Secure Data Ownership**
+
+Blockchain technology grants users unique ownership of digital data on the internet. Ownership, in this context, ensures that no one else can falsely claim rights to transfer or manipulate a specific piece of digital data. This capability addresses a pressing need within the Metaverse, where digital assets—ranging from virtual real estate to in-game items—must be authenticated and safeguarded from unauthorized modifications.
+
+In traditional systems, such as centralised online games or platforms, ownership is often illusory. For instance, in modern MMORPGs (Massively Multiplayer Online Role-Playing Games), all in-game assets that appear to belong to a player are, in fact, data stored on centralised servers owned by the game company. These assets can be modified or erased at the company's discretion. Although such actions are typically regulated, they leave users vulnerable to the whims of the platform owner. Blockchain offers an alternative: a decentralised system where digital assets are recorded and secured across a distributed ledger. This decentralisation ensures that even if one user attempts to manipulate the system, their actions can be detected and invalidated by the network consensus.
+
+### **The Metaverse and Blockchain: A Vision of Decentralised Ownership**
+
+The 2018 film *Ready Player One* vividly imagines a future where individuals engage with a global Metaverse, a virtual environment where items hold tangible value and can be traded for real-world currency. While this scenario may seem reminiscent of real-money trading in MMORPGs, the underlying mechanisms differ significantly. Blockchain eliminates the reliance on centralised servers, instead distributing ownership and control across a decentralized network. This framework ensures that digital assets in the Metaverse are immutable, secure, and verifiably owned by individuals, independent of any single controlling entity.
+
+### **Technological Readiness for Digital Asset Integration**
+
+The technological foundation for integrating blockchain with VR and the Metaverse is largely established. Blockchain’s decentralised ledger provides the necessary infrastructure to authenticate and secure digital assets, ensuring that items such as virtual real estate, collectibles, and even digital identities are tamper-proof. Additionally, blockchain’s transparency and immutability offer a level of trust that centralised systems cannot match.
+
+However, significant challenges remain, including scalability, energy efficiency, and the user experience of blockchain applications. Research and innovation are needed to refine blockchain systems, ensuring they can seamlessly support the scale and complexity of a fully realised Metaverse.
+
+### **Conclusion**
+
+The integration of blockchain technology with VR has the potential to revolutionise the concept of digital ownership in the Metaverse. By enabling secure, decentralised ownership of digital assets, blockchain addresses one of the most pressing needs of virtual environments: trust. As blockchain continues to evolve, its role in safeguarding personal digital assets within the Metaverse will become increasingly vital. The technological groundwork has been laid, and further exploration into this synergy promises to unlock new possibilities for the future of digital ecosystems. The combination of blockchain and VR is not merely a theoretical concept but a practical pathway toward a more secure and equitable virtual world.
+
+---
+
+6. Summary
